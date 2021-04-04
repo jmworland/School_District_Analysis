@@ -7,10 +7,10 @@ We were tasked by the head of the school district to look over test data based o
 ## Results
 
 •	How is the district summary affected? 
-The percent of passing students in reading, math, and overall went down when the data was scrubbed from the ninth-grade of Thomas high. The average scores        remained relatively unchanged. [New District Summary]() vs [Old District Summary]()
+The percent of passing students in reading, math, and overall went down when the data was scrubbed from the ninth-grade of Thomas high. The average scores        remained relatively unchanged. [New District Summary](Resources/New_District_Summary.png) vs [Old District Summary](Resources/Old_District_Summary.png)
 
 •	How is the school summary affected? 
-For Thomas High School specifically, the average math score went down, average reading score went up, and all the passing percentages went down. [New School      Summary]() vs [Old School Summary]()
+For Thomas High School specifically, the average math score went down, average reading score went up, and all the passing percentages went down. [New School      Summary](Resources/New_School_Summary.png) vs [Old School Summary](Resources/Old_School_Summary.png)
 
 •	How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools? 
 The ranking for Thomas High School remains unchanged when looked at in comparison to other schools based on scores. 
