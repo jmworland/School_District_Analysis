@@ -18,15 +18,19 @@ The ranking for Thomas High School remains unchanged when looked at in compariso
 •	How does replacing the ninth-grade scores affect the following:
     
    o	Math and reading scores by grade. 
-    This is the only category that is affected by the score change and it only affects the grade nine scores. All other scores per grade level remain unchanged. 
+    
+   This is the only category that is affected by the score change and it only affects the grade nine scores. All other scores per grade level remain unchanged. 
     
    o	Scores by school spending. 
+   
    This remains unchanged.
    
    o	Scores by school size. 
+   
    This remains unchanged.
    
    o	Scores by school type. 
+   
    This remains unchanged.
 
 ## Summary and recommendations 
